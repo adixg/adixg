@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Nanashi-bot/Nanashi-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**adixg/adixg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋, I'm Aditya Ghosh</h1>
 <h4 align="center">I'm a Data Scientist and AI Enthusiast</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nanashi-bot&color=blueviolet" alt="nanashi-bot" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adixg&color=blueviolet" alt="adixg" /> </p>
 
 - 🔭 I’m currently working on Machine Learning and Deep Learning projects
 - 🌱 I’m currently learning Natural Language Processing (NLP) techniques, Statistical modeling and hypothesis testing
@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 
 ## Github Stats
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=nanashi-bot&&show_icons=true&theme=synthwave&hide_border=true" max-width="100%" width="450px">
-	<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanashi-bot&theme=synthwave&hide_border=true" max-width="100%" width="450px">  -->
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanashi-bot&layout=compact&theme=synthwave&hide_border=true" max-width="100%" width="450px">
+	<img src="https://github-readme-stats.vercel.app/api?username=adixg&&show_icons=true&theme=synthwave&hide_border=true" max-width="100%" width="450px">
+	<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adixg&theme=synthwave&hide_border=true" max-width="100%" width="450px">  -->
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adixg&layout=compact&theme=synthwave&hide_border=true" max-width="100%" width="450px">
 </p>
 <br>
 
