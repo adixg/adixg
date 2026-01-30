@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there 👋, I'm Aditya Ghosh</h1>
-<h4 align="center">I'm a Data Scientist and AI Enthusiast</h4>
+<h4 align="center">I'm a Data Scientist and DL Enthusiast</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adixg&color=blueviolet" alt="adixg" /> </p>
 
 - 🔭 I’m currently working on Machine Learning and Deep Learning projects
-- 🌱 I’m currently learning Natural Language Processing (NLP) techniques, Statistical modeling and hypothesis testing
+- 🌱 I’m currently learning Natural Language Processing (NLP) techniques, Statistical modeling and Computer Vision (CV) techniques
 - 👯 I’m looking to collaborate on Data Science or Deep Learning Projects
-- 💬 Ask me about NLP
+- 💬 Ask me about NLP or CV
 - 📫 How to reach me: adityaghosh2772@gmail.com
 - 😄 Pronouns: He/Him
 
