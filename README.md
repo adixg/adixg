@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there 👋, I'm Aditya Ghosh</h1>
-<h4 align="center">I'm a Data Scientist and DL Enthusiast</h4>
+<h4 align="center">I'm a second year MSCS student at Georgia Tech with a Specialization in Machine Learning</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adixg&color=blueviolet" alt="adixg" /> </p>
 
 - 🔭 I’m currently working on Machine Learning and Deep Learning projects
