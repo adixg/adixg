@@ -47,12 +47,25 @@ Here are some ideas to get you started:
 
 ## Github Stats
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=adixg&&show_icons=true&theme=synthwave&hide_border=true" max-width="100%" width="450px">
-	<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adixg&theme=synthwave&hide_border=true" max-width="100%" width="450px">  -->
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adixg&layout=compact&theme=synthwave&hide_border=true" max-width="100%" width="450px">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adixg&theme=radical"
+    alt="GitHub Profile Details"
+    width="700"
+  />
 </p>
-<br>
 
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adixg&theme=radical"
+    alt="GitHub Stats"
+    width="400"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adixg&theme=radical"
+    alt="Top Languages"
+    width="400"
+  />
+</p>
 
 ## Feel free to connect
 [![LinkedIn](https://img.shields.io/badge/Linkedin-follow-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-ghosh-datascience)
