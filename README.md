@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <h4 align="center">I'm a second year MSCS student at Georgia Tech with a Specialization in Machine Learning</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adixg&color=blueviolet" alt="adixg" /> </p>
 
-- 📫 How to reach me: adityaghosh2772@gmail.com
+- How to reach me: adityaghosh2772@gmail.com
+- My website: https://adixg.github.io/
 
 <br>
 
