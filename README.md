@@ -20,12 +20,7 @@ Here are some ideas to get you started:
 <h4 align="center">I'm a second year MSCS student at Georgia Tech with a Specialization in Machine Learning</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adixg&color=blueviolet" alt="adixg" /> </p>
 
-- 🔭 I’m currently working on Machine Learning and Deep Learning projects
-- 🌱 I’m currently learning Natural Language Processing (NLP) techniques, Statistical modeling and Computer Vision (CV) techniques
-- 👯 I’m looking to collaborate on Data Science or Deep Learning Projects
-- 💬 Ask me about NLP or CV
 - 📫 How to reach me: adityaghosh2772@gmail.com
-- 😄 Pronouns: He/Him
 
 <br>
 
